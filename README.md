@@ -1,3 +1,3 @@
 # Simple-Calculator
 
-## 🔴 [Live Demo](https://bmi-calculator-wine-sigma.vercel.app/)
+## 🔴 [Live Demo](https://simple-calculator-c963.vercel.app/)
