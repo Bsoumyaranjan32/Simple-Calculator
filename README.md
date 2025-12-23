@@ -1,7 +1,7 @@
 # Simple-Calculator
 
+## 🔴 [Live Demo](https://simple-calculator-c963.vercel.app/)
+
 ## Screenshot
 
-<img width="507" alt="screenshot" src="https://user-images.githubusercontent.com/34116562/54217627-00672b80-4512-11e9-8670-63cbed7a11bb.png">
-
-## 🔴 [Live Demo](https://simple-calculator-c963.vercel.app/)
+<img width="536" height="549" alt="calculator" src="https://github.com/user-attachments/assets/8330aeae-79c3-4ea9-a181-d8982d2f511a" />
