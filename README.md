@@ -1,6 +1,6 @@
 # Simple-Calculator
 
-## 🔴 [Live Demo](https://simple-calculator-c963.vercel.app/)
+## 🔴 [Live Demo](https://simple-calculator-theta-pearl.vercel.app/)
 
 ## Screenshot
 
